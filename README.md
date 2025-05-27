@@ -1,2 +1,3 @@
 # Python Practice  
-### Introduction
+These are just simple codes that I use for my practice
+
